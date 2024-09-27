@@ -1,0 +1,7 @@
+Write a program that prints the first n (3 <= n <= 80) terms from Fibonacci Sequence. The Fibonacci Sequence F[1], F[2], ..., F[n], is defined by following rules:
+
+
+						F[1] = 0;
+						F[2] = 1;
+						
+						n > 2 => F[n] = F[n - 1] + F[n - 2];

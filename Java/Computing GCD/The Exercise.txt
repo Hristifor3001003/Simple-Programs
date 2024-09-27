@@ -1,0 +1,6 @@
+	Write a program that computes Greates Common Divisor of two nonegative integers.
+	Example : for a = 10, b = 15 the program prints 5
+	Example 2: for a = 12, b = 24  the program prints 12;
+	Example 3: for a = 11, b = 25 the program prints 1.
+	
+	

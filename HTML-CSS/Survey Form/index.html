@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Survey Form</title>
+    <meta charset="UTF-8" />
+	<meta name="author" content="Hristifor Sotirovski">
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+
+  </head>
+
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking time to fill    this form</p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for="name">Name</label>
+        <input id="name" type="text" placeholder="Enter your name" required>
+        <label id="email-label" for="email">Email</label>
+        <input id="email" type="email" placeholder="Enter your email" required>
+        <label id="number-label" for="number">Age (optional)</label>
+        <input id="number" type="number"    placeholder="Age" min="13" max="120">
+      </fieldset>
+      <fieldset class="second">
+        <label>Would you recommend freeCodeCamp to a friend?</label>
+  <div class="x"><input type="radio" name="rcm" value="1"> <span>Definetly</span></div>
+  <div class="x"><input type="radio" name="rcm" value="2"> <span>Maybe</span></div>
+  <div class="x"><input type="radio" name="rcm" value="3"> <span>Not sure</span></div>
+      </fieldset>
+      <fieldset>
+        <label>What is your favorite feature of freeCodeCamp?</label>
+         <select id="dropdown">
+        <option>Select an option</option>
+        <option>Chalenges</option>
+        <option>Projects</option>
+        <option>Community</option>
+        <option>Open Source</option>
+      </select>
+      </fieldset>
+
+      <fieldset>
+        <label>What would you like to see improved? (Check all that apply)</label>
+          <div class="y"><input type="checkbox" value="1"> <span>Front-end projects</span></div>
+          <div class="y"><input type="checkbox" value="2"> <span>Back-end projects</span></div>
+          <div class="y"><input type="checkbox" value="3"> <span>Data Visualization</span></div>
+          <div class="y"><input type="checkbox" value="4"> <span>Chalenges</span></div>
+          <div class="y"><input type="checkbox" value="5"> <span>Front-end projects</span></div>
+          <div class="y"><input type="checkbox" value="5"> <span>Open Source Community</span></div>
+          <div class="y"><input type="checkbox" value="6"> <span>Gitter Help Rooms</span></div>
+          <div class="y"><input type="checkbox" value="7"> <span>Videos</span></div>
+          <div class="y"><input type="checkbox" value="8"> <span>City Meetups</span></div>
+          <div class="y"><input type="checkbox" value="9"> <span>Wiki</span></div>
+          <div class="y"><input type="checkbox" value="10"> <span>Forum</span></div>
+        <div class="y"><input type="checkbox" value="11"> <span>Additional Courses</span></div>
+      </fieldset>
+      <fieldset>
+        <label>Any Comments And Suggestions?</label>
+        <textarea placeholder="Enter your comment here..." rows="5" cols="30"></textarea>
+
+      </fieldset>
+
+      <fieldset>
+        <input type="submit" id="submit">
+      </fieldset>
+
+     
+
+
+    </form>
+
+  </body>
+
+
+
+
+
+</html>

@@ -1,0 +1,1 @@
+This solution is implemented in Java in IntelliJ IDE, jdk version 22.

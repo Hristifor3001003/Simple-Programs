@@ -1,0 +1,39 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="author" content="Hristifor Sotirovski">
+    <meta name="charset" content="utf-8">
+    <title id="title">Dr. Norman Borlaug</title>
+  </head>
+
+  <body>
+    <main id="main">
+      <div id="img-div">
+        <img src="" id="image" />
+        <div id="img-caption">
+          a caption
+        </div>
+      </div>
+      <div id="tribute-info">
+        info
+      </div>
+      <a href="" id="tribute-link" target="_blank"></a> 
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+** end of undefined **
+

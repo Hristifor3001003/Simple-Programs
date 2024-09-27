@@ -1,0 +1,1 @@
+This application is implemented in java in IntelliJ IDEA, with jdk version 22.
