@@ -1,1 +1,0 @@
-The solution is implemented in C# and .NET version 8 in Visual Studio 2022 Community Edition.
