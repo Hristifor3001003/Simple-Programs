@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\3Sum\3Sum\bin\Debug\net8.0\3Sum.exe
+C:\Users\hrist\source\repos\3Sum\3Sum\bin\Debug\net8.0\3Sum.deps.json
+C:\Users\hrist\source\repos\3Sum\3Sum\bin\Debug\net8.0\3Sum.runtimeconfig.json
+C:\Users\hrist\source\repos\3Sum\3Sum\bin\Debug\net8.0\3Sum.dll
+C:\Users\hrist\source\repos\3Sum\3Sum\bin\Debug\net8.0\3Sum.pdb
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.AssemblyInfo.cs
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.dll
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\refint\3Sum.dll
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.pdb
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\3Sum.genruntimeconfig.cache
+C:\Users\hrist\source\repos\3Sum\3Sum\obj\Debug\net8.0\ref\3Sum.dll
