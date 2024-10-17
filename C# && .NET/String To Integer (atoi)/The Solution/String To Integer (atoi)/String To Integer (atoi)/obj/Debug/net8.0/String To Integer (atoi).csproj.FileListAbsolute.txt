@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\bin\Debug\net8.0\String To Integer (atoi).exe
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\bin\Debug\net8.0\String To Integer (atoi).deps.json
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\bin\Debug\net8.0\String To Integer (atoi).runtimeconfig.json
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\bin\Debug\net8.0\String To Integer (atoi).dll
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\bin\Debug\net8.0\String To Integer (atoi).pdb
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).AssemblyInfo.cs
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).dll
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\refint\String To Integer (atoi).dll
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).pdb
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\String To Integer (atoi).genruntimeconfig.cache
+C:\Users\hrist\source\repos\String To Integer (atoi)\String To Integer (atoi)\obj\Debug\net8.0\ref\String To Integer (atoi).dll
