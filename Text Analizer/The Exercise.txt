@@ -1,9 +1,0 @@
-
-Create an windows forms application "Text Analizer". Тhe graphical user interface should looks like the one shown in 
-the picture "Picture.jpeg". The user enters text into the text input field in the left half 
-of the application. It can be entered in multiple lines and consists of multiple words and sentences. Sentences are made 
-up of multiple words. Words are separated from each other by spaces. There can be words made up of one letter each (eg the word "a"). After pressing
-the process button, the application should analyze the entered text and calculate  the number (frequency) of occurence of each of the words in the text.
-The application is not case-sensitive  i.e it treats the words "Word" and "word" the same). Then in the field in the right half of the application, he writes 
-uniquely found words (words that appears more than once, he writed them only once), and to the right os them, in the same row, the application writes a natural number 
-that shows the number of occurences of corresponding word in the text. Each found word is written in a separate line.
