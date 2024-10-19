@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\bin\Debug\net8.0\Count Total Number Of Colored Cells.exe
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\bin\Debug\net8.0\Count Total Number Of Colored Cells.deps.json
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\bin\Debug\net8.0\Count Total Number Of Colored Cells.runtimeconfig.json
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\bin\Debug\net8.0\Count Total Number Of Colored Cells.dll
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\bin\Debug\net8.0\Count Total Number Of Colored Cells.pdb
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.dll
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\refint\Count Total Number Of Colored Cells.dll
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.pdb
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\Count Total Number Of Colored Cells.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Count Total Number Of Colored Cells\Count Total Number Of Colored Cells\obj\Debug\net8.0\ref\Count Total Number Of Colored Cells.dll
