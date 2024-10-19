@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\bin\Debug\net8.0\Determine Color of a Chessboard Square.exe
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\bin\Debug\net8.0\Determine Color of a Chessboard Square.deps.json
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\bin\Debug\net8.0\Determine Color of a Chessboard Square.runtimeconfig.json
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\bin\Debug\net8.0\Determine Color of a Chessboard Square.dll
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\bin\Debug\net8.0\Determine Color of a Chessboard Square.pdb
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.dll
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\refint\Determine Color of a Chessboard Square.dll
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.pdb
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\Determine Color of a Chessboard Square.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Determine Color of a Chessboard Square\Determine Color of a Chessboard Square\obj\Debug\net8.0\ref\Determine Color of a Chessboard Square.dll

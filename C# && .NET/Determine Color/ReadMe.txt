@@ -1,0 +1,1 @@
+The application is implemented in C# and .NET version 8 on Visual Studio
