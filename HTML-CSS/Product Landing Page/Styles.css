@@ -1,0 +1,150 @@
+body {
+    font-family: Lato, sans-serif;
+    height: 100vh;
+}
+
+#nav-bar > a {
+    text-decoration: none;
+    color: black;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 5px;
+}
+
+#flex-item1, #nav-bar {
+    width: 50%;
+}
+
+#features {
+    display: flex;
+    margin: 50px 20% 50px 20%;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.text > h2, text > div{
+    margin: 0;
+    padding-top: 20px;
+}
+
+.features-flex-item {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0;
+}
+
+#an-video {
+    margin: 0 30%;
+}
+
+#pricing {
+    display: flex;
+    flex-direction: row;
+    margin: 65px 15%;
+    justify-content: space-evenly;
+}
+
+footer {
+    margin: 40px 15%;
+    background-color: #ddd;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-bottom: 30px;
+}
+
+footer > div {
+    width: 33%;
+}
+
+#last {
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+}
+#lastOne {
+    color: #444;
+}
+
+#divContainer {
+    display: flex;
+}
+
+#divContainer > a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+
+.pricing-item {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px black solid;
+}
+.pricing-item > h3, .pricing-item > div {
+    text-align: center;
+}
+
+.pricing-item > h3 {
+    background-color: #ddd;
+    margin-top: 0;
+    padding: 20px 0;
+}
+
+.pricing-item > div {
+    margin: 4px;
+}
+
+.pricing-item > .price {
+    font-size: 23px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.features-flex-item > img {
+    margin-right: 70px;
+    vertical-align: middle;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20%;
+}
+
+input[type="email"] {
+    margin: 0 auto;
+    display: block;
+    width: 250px;
+    height: 25px;
+}
+
+button {
+    margin: 20px auto;
+    display: block;
+    background-color: #f1c40f;
+    height: 30px;
+    font-weight: bolder;
+    border: none;
+    width: 150px;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+
+#formContainer {
+    width: 30%;
+    margin: 20px 35% 0 35%;
+}
+
+
+
+
+
