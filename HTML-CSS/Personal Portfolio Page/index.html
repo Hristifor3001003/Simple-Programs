@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Hristifor Sotirovski">
+        <title>Personal Portfolio Page</title>
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <nav id="navbar">
+            <div id="FirstItem"></div>
+            <div id="SecondItem">
+                <a href="#welcome-section">About</a>
+                <a href="#projects">Work</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </nav>
+
+        <main>
+            <section id="welcome-section">
+                <h1>Hey I am Hristifor</h1>
+                <p>A web developer</p>
+            </section>
+            <section id="projects">
+                <h1>These are some of my projects</h1>
+                <div id="project-tile-container">
+                    <div id="row1">
+                        <a href="https://codepen.io/freeCodeCamp/full/zNqgVx">
+                            <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" />
+                            <p class="project-title"> 
+                                Tribute Page
+                              </p>
+                        </a>
+                        <a href="https://codepen.io/freeCodeCamp/full/qRZeGZ">
+                            <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png" />
+                            <p class="project-title">Random Quote Machine</p>
+                        </a>
+                        <a href="https://codepen.io/freeCodeCamp/full/wgGVVX">
+                            <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png" />
+                            <p class="project-title">JavaScript Calculator</p>
+                        </a>
+                    </div>
+                    <div id="row2">
+                        <a href="https://codepen.io/freeCodeCamp/full/mVEJag">
+                            <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg" />
+                            <p class="project-title"> 
+                               Map Data Across the Globe
+                              </p>
+                        </a>
+                        <a href="https://codepen.io/freeCodeCamp/full/wGqEga" target="_blank" class="project project-tile">
+                            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png" alt="project">
+                                <p class="project-title">
+                                    Wikipedia Viewer
+                                </p>
+                        </a>
+                        <a href="https://codepen.io/freeCodeCamp/full/KzXQgy" target="_blank" class="project project-tile">
+                            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" alt="project">
+                                <p class="project-title">
+                                    Tic Tac Toe Game
+                                </p>
+                        </a>
+                    </div>
+                    <a id="show-all" target="_blank" href="https://codepen.io/FreeCodeCamp/">Show all ></a>
+                </div>
+            </section>
+            <section id="contact">
+                <h1>Let's work together...</h1>
+                <p>How do you take your coffee?</p>
+                <div id="flex-container">
+                    <a href="https://www.facebook.com/hristifor.sotirovski.2025/" class="an-anchor"><img src="./FacebookIcon.jpeg" class="icon" /><span class="inner-text">Facebook</span></a>
+                    <a href="https://github.com/Hristifor3001003" class="an-anchor"><img src="./Github icon.png" class="icon"><span class="inner-text">GitHub</span></a>
+                    <a href="https://x.com" class="an-anchor"><img src="./TwitterIcon.png" class="icon"><span class="inner-text">Twitter</span></a>
+                    <a href="mailto:example@example.com" class="an-anchor"><img src="./MailIcon.png" class="icon"><span class="inner-text">Send a mail</span></a>
+                    <a href="https://personal-portfolio.freecodecamp.rocks/tel:555-555-5555" class="an-anchor"><img src="./TelephoneIcon.jpeg" class="icon"><span class="inner-text">Call me</span></a>
+                </div>
+            </section>
+        </main>
+        <footer id="foot">
+            <span id="foot-item1">**This is just a partially fake portfolio. Some projects and contact details given are not real.</span>
+            <span id="foot-item2">&copy; Created for gathering CV points</span>
+        </footer>
+    </body>
+</html>
